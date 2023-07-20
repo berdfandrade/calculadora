@@ -39,3 +39,4 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs 
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
+# calculadora-react
